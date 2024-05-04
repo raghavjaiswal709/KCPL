@@ -3,7 +3,7 @@ import {signIn} from "next-auth/react";
 import Image from "next/image";
 import Link from "next/link";
 import {useState} from "react";
-import pizzaslice from "../../../public/hd4.svg"
+import pizzaslice from "../../../public/allProductWing.png"
 
 export default function RegisterPage() {
   const [email, setEmail] = useState('');
