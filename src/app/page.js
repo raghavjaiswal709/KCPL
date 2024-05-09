@@ -28,8 +28,9 @@ export default function Home() {
         />
         <div className="mt-8">
           <a className="text-4xl underline text-gray-100" href="tel:+46738123123">
-            +91 8271155556 <p>(Owner) Saheb Kumar Jaiswal</p>
+            +91 8271155556
           </a>
+             <p>(Owner) Saheb Kumar Jaiswal</p>
         </div>
       </section>
     </>
