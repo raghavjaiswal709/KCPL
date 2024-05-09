@@ -30,8 +30,9 @@ export default function Home() {
           <a className="text-4xl underline text-gray-100" href="tel:+46738123123">
             +91 8271155556
           </a>
-             <p className="text-4xl underline text-gray-100" >(Owner) Saheb Kumar Jaiswal</p>
+             
         </div>
+            <p className="text-4xl underline text-gray-100" >(Owner) Saheb Kumar Jaiswal</p>
       </section>
     </>
   )
